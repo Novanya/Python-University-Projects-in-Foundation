@@ -1,0 +1,37 @@
+Date: 2025-04-03
+Time: 13:01
+
+Total Rounds: 1
+
+Round 1 results
+-------------
+No : Hum vs PC - Winner
+1: 4♣ vs 8♦ - P
+2: 5♣ vs J♣ - P
+3: Q♥ vs 6♣ - H
+4: Joker vs K♥ - H
+5: J♠ vs 7♥ - H
+6: 9♥ vs 5♠ - H
+7: 10♥ vs 9♦ - H
+8: 3♣ vs 7♦ - P
+9: K♦ vs 10♠ - H
+10: 2♥ vs 10♣ - P
+11: 6♦ vs 3♦ - H
+12: Q♣ vs J♦ - H
+13: 6♠ vs 4♠ - H
+14: 4♦ vs 5♦ - P
+15: 9♠ vs 3♠ - H
+16: 8♠ vs 5♥ - H
+17: 8♣ vs A♠ - P
+18: A♣ vs 6♥ - H
+19: A♦ vs 9♣ - H
+20: 2♦ vs 2♠ - WAR
+21: 7♠ vs 10♦ - P
+22: 4♥ vs J♥ - P
+23: 7♣ vs 3♥ - H
+
+PC card count 16
+Human card count 38
+War count 1
+
+Human won the game!
